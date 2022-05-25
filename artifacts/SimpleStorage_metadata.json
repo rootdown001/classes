@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contract.sol": "SimpleStorage"
+			"SimpleStorage.sol": "SimpleStorage"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,7 +59,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contract.sol": {
+		"SimpleStorage.sol": {
 			"keccak256": "0xfa79bfa0e9d7acbb32774a2228765441c93b1fda3eb717ea515bea50f83e26aa",
 			"license": "GPL-3.0",
 			"urls": [
